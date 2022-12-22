@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314420035069",
+    "project_id": "shatha-lab12",
+    "storage_bucket": "shatha-lab12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314420035069:android:de7946829575264ae62d94",
+        "android_client_info": {
+          "package_name": "com.example.shatha_lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314420035069-qjtq55cosla723ngfgh9e96ifjfk18ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVAx4lx5Fcdh_-1OHvTp83GY6ij1lOwbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314420035069-qjtq55cosla723ngfgh9e96ifjfk18ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
