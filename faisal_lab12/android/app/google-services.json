@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500302956069",
+    "project_id": "lab12-deb5d",
+    "storage_bucket": "lab12-deb5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500302956069:android:db97b6a546e65902f3e1cc",
+        "android_client_info": {
+          "package_name": "com.example.faisal_lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500302956069-iscgri8dmsbsg5qfao2gv0kk080bqrou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADaIDfn4Pb_hxA9WgTaIsYXu8lNsrfE4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500302956069-iscgri8dmsbsg5qfao2gv0kk080bqrou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
