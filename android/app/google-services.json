@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548516032805",
+    "project_id": "rakanlab12",
+    "storage_bucket": "rakanlab12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548516032805:android:a6edd725fa161a29886acc",
+        "android_client_info": {
+          "package_name": "com.example.rakan_lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548516032805-t3taig0e69dtr4pkde7m87fd6d223q42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwTLYS4yx2_sE3S599uPjUmOue3L0Guw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548516032805-t3taig0e69dtr4pkde7m87fd6d223q42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
