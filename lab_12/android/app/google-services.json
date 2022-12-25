@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36534765797",
+    "project_id": "vaulted-splice-370807",
+    "storage_bucket": "vaulted-splice-370807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36534765797:android:4c25d5ad0db36afa506c0c",
+        "android_client_info": {
+          "package_name": "com.example.lab_12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36534765797-7bck8bi72369s9aliavpe682tafo247r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sFVbMWhfBtKGWACR6TY3A2jNCNr6BWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36534765797-7bck8bi72369s9aliavpe682tafo247r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
