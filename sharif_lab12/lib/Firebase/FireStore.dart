@@ -2,6 +2,7 @@
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:get/get.dart';
+import 'package:sharif_lab12/Firebase/FirebaseAuth.dart';
 
 abstract class FireStore {
   static final instance = FirebaseFirestore.instance;
@@ -30,7 +31,8 @@ abstract class FireStore {
     required String age,
   }) async {
     try {
-      await instance.collection("Profile").doc().set({
+      var userId = Auth.getUserId();
+      await instance.collection("Profile").doc(userId).set({
         "name": name,
         "email": email,
         "age": age,
