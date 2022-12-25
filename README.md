@@ -1,16 +1,5 @@
-# rakan_lab12
+# lab-12
 
-A new Flutter project.
+### Build a login page that contains Email, Password. A profile page that contains personal Information such as name, email, age.. etc and an Edit page to modify the user pesonal information. Use Firestore & Authintectaion.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: Name your app Your name-lab12
