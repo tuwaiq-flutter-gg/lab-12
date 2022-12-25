@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728905838882",
+    "project_id": "flutter-lab12-7fc26",
+    "storage_bucket": "flutter-lab12-7fc26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728905838882:android:30ef9e44a39444a858757b",
+        "android_client_info": {
+          "package_name": "com.example.hadeel_lab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728905838882-i1pjb96upevbaaskot40l0cago5481f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdq36fGCFa96Ac9H_u9l3XS7KxjDAMbPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728905838882-i1pjb96upevbaaskot40l0cago5481f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
