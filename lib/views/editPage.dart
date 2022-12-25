@@ -1,12 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:get/get.dart';
-import 'package:rakan_lab12/components/MainTextField.dart';
 import 'package:rakan_lab12/controllers/userControllers.dart';
-import 'package:rakan_lab12/views/profilePage.dart';
 
 class EditPage extends StatelessWidget {
   EditPage({super.key});
@@ -72,6 +67,11 @@ class EditPage extends StatelessWidget {
                     "email": emailController.text,
                   },
                 );
+                userController.mainUser.name = nameController.text;
+                userController.mainUser.age = ageController.text;
+                userController.mainUser.email = emailController.text;
+
+                userController.update();
                 Get.back();
               },
               child: Text("Update"),
